@@ -1,0 +1,22 @@
+# Gizli bilgiler - ASLA yukleme!
+.env
+
+# Sanal ortam
+venv/
+env/
+.venv/
+
+# Python onbellek
+__pycache__/
+*.pyc
+
+# Editor ayarlari
+.vscode/
+.idea/
+
+# Isletim sistemi dosyalari
+.DS_Store
+Thumbs.db
+
+# Veritabani dosyasi
+*.db
