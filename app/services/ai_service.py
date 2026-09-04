@@ -25,7 +25,7 @@ class AIService:
 
         payload = {
             "model": "openai/gpt-oss-20b",
-            "messages": messages
+            "messages": messages,
             "temperature": 0.7,
             "max_tokens": 500
         }
