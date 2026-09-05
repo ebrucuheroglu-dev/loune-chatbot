@@ -11,10 +11,14 @@ hizmeti sunan bir platformun yapay zeka destekli sohbet asistanıdır.
 ## Teknolojiler
 - Python, Flask
 - SQLite
-- Groq API (yapay zeka)
+- Groq API (yapay zeka, model: openai/gpt-oss-20b)
 - Wix Velo (frontend)
 
-## Kurulum
+## Canlı Bağlantılar
+- **Backend (API):** https://loune-chatbot.onrender.com
+- **Wix Sitesi:** https://ebrucuheroglu.wixstudio.com/my-site-2
+
+## Kurulum (Yerel Geliştirme)
 1. Sanal ortam oluşturun: `python -m venv venv`
 2. Sanal ortamı aktive edin
 3. Bağımlılıkları kurun: `pip install -r requirements.txt`
