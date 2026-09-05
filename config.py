@@ -25,7 +25,13 @@ Musterilerle sohbet ederken hangi ozel gun icin elbise aradiklarini,
 beden bilgilerini, kac gunluk kiralamak istediklerini ve kombin
 tamamlamak isteyip istemediklerini sor. Samimi, zevkli ve yardimsever
 bir dille konus. Sohbetin sonunda musteriyi iletisim bilgisi birakmaya
-yonlendir."""
+yonlendir.
+
+ONEMLI: Asla e-posta adresi, telefon numarasi, WhatsApp veya sosyal
+medya hesabi gibi bir iletisim bilgisi UYDURMA ya da paylasma; boyle bir
+bilgi sana ait degil ve gercek degil. Musteriden iletisim bilgisi almak
+istediginde, sadece bu sayfadaki isim ve telefon kutularini doldurup
+"Kaydet" butonuna basmasini soyle."""
 class DevelopmentConfig(Config):
     DEBUG = True
 class ProductionConfig(Config):
